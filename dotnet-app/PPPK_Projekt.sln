@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPK_Projekt", "PPPK_Projekt\PPPK_Projekt.csproj", "{06FDFA3E-C17F-468C-AE2B-BF304F015024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishod7", "Ishod7\Ishod7.csproj", "{0C70EB92-C237-476A-9EB4-0979D043360D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FDFA3E-C17F-468C-AE2B-BF304F015024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FDFA3E-C17F-468C-AE2B-BF304F015024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FDFA3E-C17F-468C-AE2B-BF304F015024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FDFA3E-C17F-468C-AE2B-BF304F015024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C70EB92-C237-476A-9EB4-0979D043360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C70EB92-C237-476A-9EB4-0979D043360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C70EB92-C237-476A-9EB4-0979D043360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C70EB92-C237-476A-9EB4-0979D043360D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EE3C95-90AB-4CC8-87B8-C4A1C6F5FE3C}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

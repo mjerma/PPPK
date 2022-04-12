@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DatabaseData>
+  <PutniNalog IDPutniNalog="1">
+    <Naredbodavac>Ivan Ivic</Naredbodavac>
+    <BrojNaloga>23</BrojNaloga>
+    <Vozac>
+      <IDVozac>1</IDVozac>
+      <Ime>Pero</Ime>
+      <Prezime>Peric</Prezime>
+      <BrojMobitela>12958125</BrojMobitela>
+      <BrojVozackeDozvole>326236236</BrojVozackeDozvole>
+    </Vozac>
+    <Vozilo>
+      <IDVozilo>1</IDVozilo>
+      <Tip>Auto</Tip>
+      <Marka>Bmw</Marka>
+      <GodinaProizvodnje>2011</GodinaProizvodnje>
+      <PrijedeniKilometri>20000</PrijedeniKilometri>
+      <JeSlobodno>False</JeSlobodno>
+    </Vozilo>
+    <Rute>
+      <Ruta>
+        <IDRuta>1</IDRuta>
+        <Sati>2</Sati>
+        <KoordinataA>312</KoordinataA>
+        <KoordinataB>231</KoordinataB>
+        <PrijedeniKilometri>1032</PrijedeniKilometri>
+        <ProsjecnaBrzina>120</ProsjecnaBrzina>
+        <PotrosenoGorivo>25</PotrosenoGorivo>
+      </Ruta>
+    </Rute>
+    <Polaziste>Zagreb</Polaziste>
+    <Odrediste>Rijeka</Odrediste>
+    <BrojDana>2</BrojDana>
+    <DatumOtvaranja>8/12/2020 12:00:00 AM</DatumOtvaranja>
+    <DatumZatvaranja>8/14/2020 12:00:00 AM</DatumZatvaranja>
+  </PutniNalog>
+  <PutniNalog IDPutniNalog="2">
+    <Naredbodavac>Ivo Sanader</Naredbodavac>
+    <BrojNaloga>15</BrojNaloga>
+    <Vozac>
+      <IDVozac>2</IDVozac>
+      <Ime>Maja</Ime>
+      <Prezime>Majic</Prezime>
+      <BrojMobitela>62623326</BrojMobitela>
+      <BrojVozackeDozvole>854834388</BrojVozackeDozvole>
+    </Vozac>
+    <Vozilo>
+      <IDVozilo>2</IDVozilo>
+      <Tip>Auto</Tip>
+      <Marka>Audi</Marka>
+      <GodinaProizvodnje>1999</GodinaProizvodnje>
+      <PrijedeniKilometri>32362</PrijedeniKilometri>
+      <JeSlobodno>False</JeSlobodno>
+    </Vozilo>
+    <Rute>
+      <Ruta>
+        <IDRuta>2</IDRuta>
+        <Sati>4</Sati>
+        <KoordinataA>213</KoordinataA>
+        <KoordinataB>287</KoordinataB>
+        <PrijedeniKilometri>1784</PrijedeniKilometri>
+        <ProsjecnaBrzina>120</ProsjecnaBrzina>
+        <PotrosenoGorivo>30</PotrosenoGorivo>
+      </Ruta>
+    </Rute>
+    <Polaziste>Zagreb</Polaziste>
+    <Odrediste>Split</Odrediste>
+    <BrojDana>9</BrojDana>
+    <DatumOtvaranja>9/20/2020 12:00:00 AM</DatumOtvaranja>
+    <DatumZatvaranja>9/28/2020 12:00:00 AM</DatumZatvaranja>
+  </PutniNalog>
+  <PutniNalog IDPutniNalog="3">
+    <Naredbodavac>Zdravko Mamic</Naredbodavac>
+    <BrojNaloga>34</BrojNaloga>
+    <Vozac>
+      <IDVozac>3</IDVozac>
+      <Ime>Josip</Ime>
+      <Prezime>Josic</Prezime>
+      <BrojMobitela>436347437</BrojMobitela>
+      <BrojVozackeDozvole>347347347</BrojVozackeDozvole>
+    </Vozac>
+    <Vozilo>
+      <IDVozilo>3</IDVozilo>
+      <Tip>Auto</Tip>
+      <Marka>Mercedes</Marka>
+      <GodinaProizvodnje>2016</GodinaProizvodnje>
+      <PrijedeniKilometri>500</PrijedeniKilometri>
+      <JeSlobodno>False</JeSlobodno>
+    </Vozilo>
+    <Rute />
+    <Polaziste>Pula</Polaziste>
+    <Odrediste>Varazdin</Odrediste>
+    <BrojDana>4</BrojDana>
+    <DatumOtvaranja>11/11/2020 12:00:00 AM</DatumOtvaranja>
+    <DatumZatvaranja />
+  </PutniNalog>
+  <PutniNalog IDPutniNalog="4">
+    <Naredbodavac>Pero Peric</Naredbodavac>
+    <BrojNaloga>34</BrojNaloga>
+    <Vozac>
+      <IDVozac>4</IDVozac>
+      <Ime>Mirta</Ime>
+      <Prezime>Mirtic</Prezime>
+      <BrojMobitela>3473474</BrojMobitela>
+      <BrojVozackeDozvole>457457227</BrojVozackeDozvole>
+    </Vozac>
+    <Vozilo>
+      <IDVozilo>4</IDVozilo>
+      <Tip>Auto</Tip>
+      <Marka>VW</Marka>
+      <GodinaProizvodnje>2018</GodinaProizvodnje>
+      <PrijedeniKilometri>32523</PrijedeniKilometri>
+      <JeSlobodno>False</JeSlobodno>
+    </Vozilo>
+    <Rute />
+    <Polaziste>Osijek</Polaziste>
+    <Odrediste>Varazdin</Odrediste>
+    <BrojDana>3</BrojDana>
+    <DatumOtvaranja>11/1/2020 12:00:00 AM</DatumOtvaranja>
+    <DatumZatvaranja />
+  </PutniNalog>
+</DatabaseData>

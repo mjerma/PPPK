@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<Ruta>
+  <xs:schema id="Ruta" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Ruta" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Ruta">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IDRuta" type="xs:int" minOccurs="0" />
+                <xs:element name="Sati" type="xs:int" minOccurs="0" />
+                <xs:element name="KoordinataA" type="xs:double" minOccurs="0" />
+                <xs:element name="KoordinataB" type="xs:double" minOccurs="0" />
+                <xs:element name="PutniNalogID" type="xs:int" minOccurs="0" />
+                <xs:element name="PrijedeniKilometri" type="xs:int" minOccurs="0" />
+                <xs:element name="ProsjecnaBrzina" type="xs:int" minOccurs="0" />
+                <xs:element name="PotrosenoGorivo" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Ruta>
+    <IDRuta>1</IDRuta>
+    <Sati>2</Sati>
+    <KoordinataA>312</KoordinataA>
+    <KoordinataB>231</KoordinataB>
+    <PutniNalogID>1</PutniNalogID>
+    <PrijedeniKilometri>1032</PrijedeniKilometri>
+    <ProsjecnaBrzina>120</ProsjecnaBrzina>
+    <PotrosenoGorivo>25</PotrosenoGorivo>
+  </Ruta>
+</Ruta>
